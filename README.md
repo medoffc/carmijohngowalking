@@ -1,4 +1,4 @@
-# carmijohngowalking
+# Carmi and John Go Walking to Hollywood
 
 ![box office](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/931/524/Box-Office-iStock.jpg?ve=1&tl=1)
 
