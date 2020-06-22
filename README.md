@@ -8,12 +8,12 @@ Microsoft sees all the big companies creating original video content, and have d
 This book will examine how movies' worldwide gross is impacted by the following parameters:
 
 **Film characteristics:**
-    -- by genre
-    -- by release date
+* by genre
+* by release date
 
 **Film personnel:**
-    -- by talent
-    -- by director
+* by talent
+* by director
 
 ## Data
 Our data come from publicly available online databases about movies, including IMDB, TMBD, and Rotten Tomatoes. These have been combined into a single SQL database.
