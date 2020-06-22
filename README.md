@@ -1,6 +1,6 @@
 # carmijohngowalking
 
-https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/931/524/Box-Office-iStock.jpg?ve=1&tl=1
+![box office](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/931/524/Box-Office-iStock.jpg?ve=1&tl=1)
 
 ## Business Problem
 Microsoft sees all the big companies creating original video content, and have decided to create a new movie studio. To do so, they want to better understand the movie industry by exploring what type of films are currently doing the best at the box office.
